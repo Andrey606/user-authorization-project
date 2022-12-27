@@ -1,0 +1,9 @@
+.user-list {
+  text-align: left;
+}
+
+.user-list label {
+  width: auto;
+  border: solid rgb(168, 168, 168) 1px;
+  padding: 0.2em;
+}

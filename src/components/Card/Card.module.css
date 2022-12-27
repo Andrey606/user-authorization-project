@@ -1,0 +1,23 @@
+.card {
+  border-radius: 25px;
+  border: 2px solid #000000;
+  width: 30rem;
+  max-width: 90%;
+  margin: 3rem auto;
+  padding: 0.8rem 0.8rem 0.8rem 0.8rem;
+  border-radius: 10px;
+}
+
+.card label {
+  width: 100%;
+  display: block;
+}
+
+.card ul {
+  list-style-type: none;
+  padding: 0%;
+}
+
+.card ul li {
+  margin:0 15px 15px 0; vertical-align:top
+}
